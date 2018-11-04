@@ -1,9 +1,5 @@
 package com.wmg.smartjava.concurrency;
 
-/**
- * Created by Wiraj on 11/2/18 1:44 PM.
- * Project: java-smart-parts
- */
 public class TestRunnable implements Runnable {
 
     @Override
